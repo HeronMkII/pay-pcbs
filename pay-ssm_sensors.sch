@@ -37,11 +37,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
-Title ""
+Title "Payload SSM Board"
 Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Rev "2"
+Comp "University of Toronto Aerospace Team"
+Comment1 "Dylan Vogel"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -710,7 +710,7 @@ Text HLabel 1400 1800 0    60   Input ~ 0
 SCK
 Text HLabel 1400 1050 0    60   Input ~ 0
 3V3
-Text HLabel 1400 3000 0    60   Input ~ 0
+Text HLabel 1400 2100 0    60   Input ~ 0
 GND
 Text Label 1600 1200 0    60   ~ 0
 PEX_CS
@@ -736,12 +736,12 @@ $EndComp
 $Comp
 L GND #PWR055
 U 1 1 5997DC50
-P 1600 3150
-F 0 "#PWR055" H 1600 2900 50  0001 C CNN
-F 1 "GND" H 1600 3000 50  0000 C CNN
-F 2 "" H 1600 3150 50  0001 C CNN
-F 3 "" H 1600 3150 50  0001 C CNN
-	1    1600 3150
+P 1600 2250
+F 0 "#PWR055" H 1600 2000 50  0001 C CNN
+F 1 "GND" H 1600 2100 50  0000 C CNN
+F 2 "" H 1600 2250 50  0001 C CNN
+F 3 "" H 1600 2250 50  0001 C CNN
+	1    1600 2250
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -759,9 +759,9 @@ Wire Wire Line
 Wire Wire Line
 	1400 1800 1600 1800
 Wire Wire Line
-	1400 3000 1600 3000
+	1400 2100 1600 2100
 Wire Wire Line
-	1600 3000 1600 3150
+	1600 2100 1600 2250
 Text Label 5550 1600 2    60   ~ 0
 PRES_CS
 Text Label 5550 1700 2    60   ~ 0

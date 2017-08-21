@@ -37,11 +37,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 2
-Title "General SSM Board"
+Title "Payload SSM Board"
 Date ""
-Rev ""
+Rev "2"
 Comp "University of Toronto Aerospace Team"
-Comment1 "Siddharth Mahendraker"
+Comment1 "Dylan Vogel"
 Comment2 ""
 Comment3 ""
 Comment4 ""
