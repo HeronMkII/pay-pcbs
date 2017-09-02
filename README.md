@@ -1,5 +1,7 @@
-# Payload Subsystem Main (SSM) Board
-_Version 2_
+# Payload Subsystem PCBs
+**PAY SSM V2**
+**PAY LED V1**
+**PAY SENSOR V1**
 
 Schematic & PCB layout files for the Payload SSM. 
 
