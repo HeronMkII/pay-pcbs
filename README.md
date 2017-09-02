@@ -1,8 +1,11 @@
 # Payload Subsystem PCBs
-**PAY SSM V2**
-**PAY LED V1**
-**PAY SENSOR V1**
 
-Schematic & PCB layout files for the Payload SSM. 
+Currently includes:  
+
+* pay-ssm v2
+* pay-led v1
+* pay-sensor v1
+
+Schematic & PCB layout files for each respective board.
 
 Layout done in KiCad.
